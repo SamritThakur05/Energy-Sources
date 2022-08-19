@@ -1,0 +1,147 @@
+
+
+
+<html>
+	<head>
+		<title>Energy Sources</title>
+		<style>
+		#ce
+		{
+			border-left-color:green;
+		}
+		</style>
+	</head>
+	<body>
+		<table>
+			<tr>
+				<td><img src="logo.png" height="100px"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td><td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td><td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td><td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td> <a href="file:///D:/HTML/soe1.html" style="text-decoration:none;color:green;"> <h3> Clean Energy </h3></a> </td><td></td><td></td><td></td><td></td><td></td><td></td><td><a href="file:///D:/HTML/soe2.html" style="text-decoration:none;color:green;">  <h3> Electric Power </h3> </a></td><td></td><td></td><td></td><td></td><td></td><td></td>
+				<td> <a href="file:///D:/HTML/soe3.html" style="text-decoration:none;color:green;"> <h3> Energy Storage </h3> </a></td><td></td><td></td><td></td><td></td><td></td><td></td><td> <a href="file:///D:/HTML/soe4.html" style="text-decoration:none;color:green;" ><h3>Hydrogen & Fuel Cells </h3> </a></td><td></td><td></td><td></td><td></td><td></td><td></td>
+				<td> <a href="file:///D:/HTML/soe5.html"  style="text-decoration:none;color:green;"><h3> Fossils</h3></a></td>
+			</tr>
+		</table>
+		
+		<div width="100%">	
+			<img src="e6.png"  width="100%" height="340px">
+		<div>
+		<table width="100%" height="100%"  bgcolor="#EBF0F2 " align="center">
+			<tr> 
+						<td><h2>Hydrogen & Fuel Cells<br></h2>
+						<p>Fuel cells produce electricity from a number of domestic fuels, including hydrogen and renewables, and can provide power for virtually any application -- from cars and buses to commercial buildings. The Fuel Cell Technologies Office (FCTO) focuses on applied research, development, and innovation to advance hydrogen and fuel cells for transportation and diverse applications enabling energy security, resiliency, and a strong domestic economy in emerging technologies.</p>
+							
+							
+						</td>
+			</tr>
+<tr>
+							
+							<td><iframe width="642" height="361" src="https://www.youtube.com/embed/MQG87a8EwzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+			</tr>
+				<tr>
+							<td>A video on Hydroge and Fuel cells on youtube by Hydrogen Hub</td>
+						</tr>
+			<tr>
+						<td><h2>Fuel Cells<br></h2>
+						<img src="e7.jpg" align="right" width="300px">
+						<p>A fuel cell uses the chemical energy of hydrogen or other fuels to cleanly and efficiently produce electricity. If hydrogen is the fuel, the only products are electricity, water, and heat. Fuel cells are unique in terms of the variety of their potential applications; they can use a wide range of fuels and feedstocks and can provide power for systems as large as a utility power station and as small as a laptop computer.</p>
+						<p>Fuel cells can be used in a wide range of applications, providing power for applications across multiple sectors, including transportation, industrial/commercial/residential buildings, and long-term energy storage for the grid in reversible systems.
+
+Fuel cells have several benefits over conventional combustion-based technologies currently used in many power plants and vehicles. Fuel cells can operate at higher efficiencies than combustion engines and can convert the chemical energy in the fuel directly to electrical energy with efficiencies capable of exceeding 60%. Fuel cells have lower or zero emissions compared to combustion engines. Hydrogen fuel cells emit only water, addressing critical climate challenges as there are no carbon dioxide emissions. There also are no air pollutants that create smog and cause health problems at the point of operation. Fuel cells are quiet during operation as they have few moving parts.</p>
+					</td>
+			
+				<tr>
+					<td> <a href="file:///D:/HTML/Sources%20of%20energy.html"><h1> 	Back To Home Page </h1></td>
+				</tr>
+				<tr>
+				<td>
+					<table width="70%"  align="center" bgcolor="white">
+					
+						<tr>
+							<td align="center"><a href="file:///D:/HTML/soe1.html"/>   <img src="e1.png" width="900px"></td>
+						</tr>
+							<tr>
+							
+							<td><a href="file:///D:/HTML/soe2.html"/><img src="e2.png" width="900px"></td>
+			</tr>
+						
+			<tr>
+							<td align="center"><a href= "file:///D:/HTML/soe3.html"/> <img src="e3.png" width="900px"></td>
+						</tr>
+					
+			<tr>
+							
+							<td><a href="file:///D:/HTML/soe5.html"/><img src="e5.png" width="900px"></td>
+			</tr>
+			</td>				
+			</tr>
+	</table>
+	<div style="background-color:#FFFFFF" ><p align="right" style="font-size:20px"> Presented_by-SAMRIT THAKUR 
+				
